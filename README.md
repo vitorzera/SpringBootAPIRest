@@ -1,2 +1,2 @@
 # SpringBootAPIRest
-Implementar uma API REST contendo um DTO responsável por gerenciar os atributos de login, incluindo outras duas relacionadas entre si.
+API REST que incorpora um Data Transfer Object (DTO) dedicado ao gerenciamento dos atributos de login, com inclusão de duas entidades relacionadas entre si.
